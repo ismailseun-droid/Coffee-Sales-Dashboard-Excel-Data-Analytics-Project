@@ -64,6 +64,10 @@ Users can dynamically filter results by:
 
 ---
 
+## 📸 Dashboard Preview
+https://github.com/ismailseun-droid/Coffee-Sales-Dashboard-Excel-Data-Analytics-Project/blob/main/CoffeeOrdersProject%20Screenshot%20.jpg
+
+---
 ## 📁 Repository Structure
 ```text
 Coffee-Sales-Dashboard/
@@ -73,8 +77,4 @@ Coffee-Sales-Dashboard/
 │
 ├── Dashboard/
 │   └── coffeeOrdersProject.xlsx
-
----
-## 📸 Dashboard Preview
-https://github.com/ismailseun-droid/Coffee-Sales-Dashboard-Excel-Data-Analytics-Project/blob/main/CoffeeOrdersProject%20Screenshot%20.jpg
 
